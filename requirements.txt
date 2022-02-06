@@ -1,6 +1,6 @@
-opencv_python==4.5.2.54
 scikit_image==0.18.1
+numpy==1.19.5
 scipy==1.6.2
 streamlit==1.1.0
-numpy==1.19.5
-skimage==0.0
+opencv_python==4.5.2.54
+
