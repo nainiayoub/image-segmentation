@@ -1,4 +1,6 @@
 # Contour-based segmentation
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/nainiayoub/image-segmentation/main/app.py)
+
 We want to perform the segmentation of a set of images by performing a contour-based segmentation on a reference proposed by an expert.
 Description
 
