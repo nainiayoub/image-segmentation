@@ -3,6 +3,7 @@ import cv2
 import os
 import numpy as np
 #----------------------
+import skimage
 from skimage import io, img_as_float, color
 from skimage.feature import greycomatrix, greycoprops
 from skimage.color import rgb2gray
